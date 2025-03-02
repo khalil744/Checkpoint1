@@ -5,8 +5,21 @@ h1 {
     font : sans-serif ;
   }
 h3 { 
-    color : blue; 
+    color : red; 
 }
 body {
 	font-family: 'Roboto', sans-serif;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+h3  {
+    display: flex;
+    justify-content: center;
+}
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
